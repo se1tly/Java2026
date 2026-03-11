@@ -1,0 +1,24 @@
+byte _ = 100            
+byte _ = 0              
+
+short _ = 30000        
+short _ = 0             
+
+int _ = 1000000          
+int _ = 0                 
+
+long _ = 10000000000Lf 
+long _ = 0L             
+
+float _ = 3.14f      
+float _ = 0.0f          
+
+double _ = 3.14159265359  
+double _ = 0.0         
+
+char _ = 'A'            
+char _ = '\u0000'        
+char _ = 0           
+
+boolean _ = true       
+boolean _ = false       
