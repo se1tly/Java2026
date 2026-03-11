@@ -1,8 +1,7 @@
-public class Oper {
+public class Suzh {
     public void main() {
-       double a = 2.5;
-       int b = 2;
-       double c = a + b;
+       int a = 105;
+       byte b = (byte)a;
     }
 }
-//тип должен соответствовать большему из типов операндов
+
